@@ -35,5 +35,10 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "codegenConfig": {
+    "name": "farm",
+    "type": "modules",
+    "jsSrcsDir": "src"
   }
 }
